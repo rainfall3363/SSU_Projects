@@ -5,9 +5,9 @@ Basic Programming assignment project - Typing Practice Program
 Written in C  
 Run at Cygwin64  
 
-To practice basic C language functions.
- + keyboard input
+To practice basic C language functions
+ + Keyboard input
  + printf function
- + conditional statements 
- + iterations 
- + creating custom functions 
+ + Conditional statements 
+ + Iterations 
+ + Creating custom functions 
